@@ -1,0 +1,2 @@
+TOKEN = '726902164:AAE4YLvcxNO6OWVF8hnHOClf5EVrv6aRsuE'
+APP_NAME = 'st-hol-first-bot'
